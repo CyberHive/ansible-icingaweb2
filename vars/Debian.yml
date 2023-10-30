@@ -5,3 +5,4 @@ icingaweb2_apt_key: "https://packages.icinga.com/icinga.key"
 icingaweb2_packages:
   - icingaweb2
   - icingacli
+  - libapache2-mod-auth-openidc

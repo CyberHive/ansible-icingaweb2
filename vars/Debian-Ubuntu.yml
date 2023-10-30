@@ -6,3 +6,4 @@ icingaweb2_packages:
   - icingaweb2
   - icingacli
   - libapache2-mod-php
+  - libapache2-mod-auth-openidc
